@@ -38,3 +38,7 @@ Compare the sales and orders using single chart.
 
 -Merge all pivot tables into one dashboarded apply slicer to make dynamic.
 
+## Dashboard
+
+<img width="1521" height="843" alt="Screenshot 2025-08-27 014310" src="https://github.com/user-attachments/assets/0ae751a4-ff42-4146-bf6e-e26116070fa7" />
+
